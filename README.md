@@ -1,0 +1,2 @@
+# VPPConvertKutoten
+VoicePreakプロジェクトの句読点の間を調整できるGUIツール
